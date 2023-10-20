@@ -16,6 +16,10 @@ This is group of USTC Loong-Arch COD lesson constructor group.
 
     The rules will be released here and in repositories which needs them;
 
-2.  代码与文档并行。
+2.  代码与文档并行；
 
-    Write Documents for your codes.
+    Write documents for your codes;
+
+    请注意文档的排版，可以参考[该仓库](https://github.com/sparanoid/chinese-copywriting-guidelines)。
+
+    Mind the typesetting in documents. You can refer to [this repository](https://github.com/sparanoid/chinese-copywriting-guidelines).
